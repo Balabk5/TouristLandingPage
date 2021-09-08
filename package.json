@@ -1,0 +1,17 @@
+{
+    "name": "immaterialhelplesscoolingfan",
+    "version": "1.0.0",
+    "description": "udemy projest",
+    "main": "script.js",
+    "scripts": {
+        "compile:sass": "node-sass sass/main.scss style.css -w "
+    },
+    "author": "bala",
+    "license": "ISC",
+    "devDependencies": {
+        "node-sass": "^6.0.0"
+    },
+    "dependencies": {
+        "bootstrap-icons": "^1.5.0"
+    }
+}
